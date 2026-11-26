@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23519054015",
+    "project_id": "entrenamiento-fisico-9",
+    "storage_bucket": "entrenamiento-fisico-9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23519054015:android:65ae4f4d6d1c9d1f0b9e0a",
+        "android_client_info": {
+          "package_name": "com.entrenamiento_fisico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7oWXmcvWWt2i4-dXmrwwAdV6o55moIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
