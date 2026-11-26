@@ -84,7 +84,7 @@ class _DashboardHome extends StatelessWidget {
         return RefreshIndicator(
           onRefresh: () async {
             await provider.refreshStudents();
-            await provider.refreshExercises();
+            // await provider._refreshStudentExercises();  // privado
             await provider._refreshStudentExercises();
           },
           child: SingleChildScrollView(
