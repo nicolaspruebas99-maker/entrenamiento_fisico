@@ -3,6 +3,8 @@ import 'package:provider/provider.dart';
 import '../../providers/app_provider.dart';
 import '../../models/user.dart';
 import '../../models/exercise.dart';
+import '../../models/student_exercise.dart';  
+import '../../utils/helpers.dart';
 import '../../utils/helpers.dart';
 import 'students_screen.dart';
 import 'exercises_screen.dart';
